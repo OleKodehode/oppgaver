@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/oppgaver/static/css/main.b9be2e02.css",
+    "main.js": "/oppgaver/static/js/main.c20f1f31.js",
+    "index.html": "/oppgaver/index.html",
+    "main.b9be2e02.css.map": "/oppgaver/static/css/main.b9be2e02.css.map",
+    "main.c20f1f31.js.map": "/oppgaver/static/js/main.c20f1f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9be2e02.css",
+    "static/js/main.c20f1f31.js"
+  ]
+}
